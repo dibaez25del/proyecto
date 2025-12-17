@@ -1,22 +1,22 @@
 const perros = [
   {
-    nombre: "Golden Retriever",
+    nombre: "Pastor Blanco",
     descripcion: "Amigable y perfecto para familias.",
     imagen: "https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8"
   },
   {
-    nombre: "Bulldog Francés",
-    descripcion: "Pequeño, juguetón y cariñoso.",
+    nombre: "Golden Retriever",
+    descripcion: "Peludo, juguetón y cariñoso.",
     imagen: "https://images.unsplash.com/photo-1558788353-f76d92427f16"
   },
   {
-    nombre: "Labrador",
-    descripcion: "Inteligente y lleno de energía.",
+    nombre: "Pug negro",
+    descripcion: "Son conocidos por ser muy sociables, cariñosos, juguetones y encantadores.",
     imagen: "https://images.unsplash.com/photo-1517849845537-4d257902454a"
   },
   {
-    nombre: "Pomerania",
-    descripcion: "Peludo y muy adorable.",
+    nombre: "Bulldog Francés ",
+    descripcion: "Pequeño y muy adorable.",
     imagen: "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a"
   }
 ];
